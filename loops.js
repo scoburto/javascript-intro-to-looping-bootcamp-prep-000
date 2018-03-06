@@ -17,6 +17,6 @@ function whileLoop(digit) {
   return "done";
 }
 
-function doWhile() {
+function doWhileLoop() {
   
 }
