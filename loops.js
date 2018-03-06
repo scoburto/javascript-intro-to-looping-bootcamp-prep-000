@@ -17,6 +17,12 @@ function whileLoop(digit) {
   return "done";
 }
 
-function doWhileLoop() {
-  
+function maybeTrue() {
+  return Math.random() >= 0.5 // Returns a random number between 0 (inclusive) and 1 (exclusive)
+}
+
+function doWhileLoop(list) {
+  while (maybeTrue() && list.length>0){
+    
+  }
 }
