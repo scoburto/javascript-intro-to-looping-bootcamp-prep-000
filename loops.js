@@ -16,3 +16,7 @@ function whileLoop(digit) {
   }
   return "done";
 }
+
+function doWhile() {
+  
+}
