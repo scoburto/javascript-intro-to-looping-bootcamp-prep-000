@@ -9,3 +9,7 @@ function forLoop(list){
   }
   return list;
 }
+
+function whileLoop(digit) {
+  
+}
