@@ -11,7 +11,7 @@ function forLoop(list){
 }
 
 function whileLoop(digit) {
-  while (digit > -1) {
+  while (digit >= 0) {
     console.log(digit);
     digit--;
   }
