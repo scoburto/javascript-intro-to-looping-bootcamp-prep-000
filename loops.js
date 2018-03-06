@@ -23,6 +23,7 @@ function maybeTrue() {
 
 function doWhileLoop(list) {
   while (maybeTrue() && list.length>0){
-    
+    list.shift();
   }
+  return list;
 }
