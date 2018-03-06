@@ -15,4 +15,5 @@ function whileLoop(digit) {
     console.log(digit);
     digit--;
   }
+  return 'done';
 }
